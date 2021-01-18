@@ -2,8 +2,6 @@
 
 <h3 align="center">I'm 19 y/o and come from Croatia.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=crni39&label=Profile%20views&color=0e75b6&style=flat" alt="crni39" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crni39" alt="crni39" /></a> </p>
 
 
