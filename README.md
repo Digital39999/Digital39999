@@ -2,7 +2,7 @@
 
 <h3 align="center">I'm 19 y/o and come from Croatia.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=crni39&label=Profile%20views&color=0e75b6&style=flat" alt="nikolaa2k20" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=crni39&label=Profile%20views&color=0e75b6&style=flat" alt="crni39' /> </p>
 
 
 
