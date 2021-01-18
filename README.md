@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Crni 39</h1>
 
-<h3 align="center">I'm 16 y/o and come from Serbia.</h3>
+<h3 align="center">I'm 19 y/o and come from Croatia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crni39&label=Profile%20views&color=0e75b6&style=flat" alt="nikolaa2k20" /> </p>
 
@@ -16,11 +16,7 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
 
-<p align="left">
-
-<a href="https://github.com/crni39" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="crni39" height="30" width="40" /></a>
 
 </p>
 
