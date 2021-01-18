@@ -5,13 +5,13 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crni39" alt="crni39" /></a> </p>
 
 
-- 🔭 I’m currently working on **Jarvis Discord Bot**
+- 🔭 | I’m currently working on **[Jarvis Discord Bot](http://discord.jarvisbot.unaux.com)**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 | I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/crni39](https://github.com/crni39)
+- 💻 | All of my projects are available at [https://github.com/crni39](https://github.com/crni39)
 
-- 📫 How to reach me **crni3939@gmail.com**
+- 📫 | How to reach me **crni3939@gmail.com**
 
 
 
