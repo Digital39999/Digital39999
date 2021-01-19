@@ -2,7 +2,7 @@
 
 <h3 align="center">I'm 19 years old and i come from Croatia.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crni39" alt="crni39" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crni39" alt="crni39" /></a> </p>
 
 
 - 🔭 | I’m currently working on **[Jarvis Discord Bot](http://discord.jarvisbot.unaux.com)**
@@ -17,4 +17,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=crni39&show_icons=true&locale=en&layout=compact" alt="crni39" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crni39&show_icons=true&locale=en" alt="crni39" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=crni39&show_icons=true&locale=en" alt="crni39" /></p>
