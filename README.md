@@ -9,7 +9,7 @@
 
 - 🌱 | I’m currently learning **JavaScript**
 
-- 💻 | All of my projects are available at [https://github.com/crni39](https://github.com/crni39)
+- 💻 | All of my projects are available at [my GitHub](https://github.com/crni39)
 
 - 📫 | You can reach me at **crni3939@gmail.com** or on discord **Crni 39#0001**
 
