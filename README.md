@@ -36,8 +36,8 @@
 <br />
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
-
+  <summary>:zap: GitHub Profile Status</summary>
+  <h1 align="center">Profile Status</h1>
   <img align="right" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crni39&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)" />
   <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Crni39&show_icons=true&theme=default&hide_border=true" />
 </details>
