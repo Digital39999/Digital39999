@@ -7,7 +7,7 @@
 
 - 🔭 | I’m currently working on **[Jarvis Discord Bot](http://discord.jarvisbot.unaux.com)**
 
-- 🌱 | I’m currently learning **JavaScript**
+- 🌱 | I’m currently learning **[JavaScript](https://discord.gg/Y8Mqbkk)**
 
 - 💻 | All of my projects are available at **[my GitHub](https://github.com/crni39)**
 
