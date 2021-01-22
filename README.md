@@ -38,7 +38,7 @@
 
 ### My Official Discord Bots:
 
-<img align="left" alt="Terminal" width="26px" src="https://cdn.discordapp.com/attachments/786359370807377950/802264947853623376/avatar.png" /> [Jarvis](http://discord.jarvisbot.unaux.com)
+<img align="left" alt="Terminal" width="26px" src="https://cdn.discordapp.com/attachments/786359370807377950/802264947853623376/avatar.png" /> [Jarvis](https://discord.gg/RxA24y9sS5)
 <br />
 
 <img align="left" alt="Terminal" width="26px" src="https://cdn.discordapp.com/emojis/769661787053752400.png" /> [Astro Music](https://discord.gg/8w6eYcVauH)
