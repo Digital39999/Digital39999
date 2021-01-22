@@ -2,9 +2,9 @@
 
 - 📫 | You can reach me on [discord](http://dsc.bio/crni3939)
 - 🌱 | I’m currently learning [JavaScript](https://discord.gg/Y8Mqbkk)
-- 🔭 | I’m currently working on [Jarvis Discord Bot](http://discord.jarvisbot.unaux.com)
 - 💻 | All of my projects are available at [my GitHub](https://github.com/crni39)
 - 🤑 | If you want sponsor me here's [Patreon](https://patreon.com/crni39) and [PayPal](https://paypal.me/crni39)
+- 🔭 | I’m currently working on [Jarvis Discord Bot](http://discord.jarvisbot.unaux.com) and on [Astro Music](https://discord.gg/FrmdnN4pqe) (Click names pls)
 
 ### Connect with me:
 
