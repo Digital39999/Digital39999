@@ -44,6 +44,6 @@
     </details>
   
   <details>
-    <summary>:zap: GitHub profile status</summary>
-  <img align="right" alt="My GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Crni39&show_icons=true&theme=default&hide_border=true" />
+    <summary>:zap: GitHub Status (clickable)</summary>
+  <img align="center" alt="My GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Crni39&show_icons=true&theme=default&hide_border=true" />
 </details>
