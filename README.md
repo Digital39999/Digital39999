@@ -43,6 +43,13 @@
 
 <img align="left" alt="Terminal" width="26px" src="https://cdn.discordapp.com/emojis/769661787053752400.png" /> [Astro Music](https://discord.gg/8w6eYcVauH)
 
+
+<details>
+  <summary>:robot: Top.gg</summary>
+  <a href="https://top.gg/bot/753661716084293710">
+    <img src="https://top.gg/api/widget/753661716084293710.svg" alt="Jarvis" />
+</a>
+</summary>
 <br />
 
 <br />
