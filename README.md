@@ -49,7 +49,7 @@
   <a href="https://top.gg/bot/753661716084293710">
     <img src="https://top.gg/api/widget/753661716084293710.svg" alt="Jarvis" />
 </a>
-</summary>
+</details>
 <br />
 
 <br />
