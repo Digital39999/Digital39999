@@ -47,7 +47,7 @@
 <details>
   <summary>:robot: Top.gg</summary>
   <a href="https://top.gg/bot/753661716084293710">
-    <img src="https://top.gg/api/widget/753661716084293710.svg" alt="Jarvis" />
+    <img src="https://top.gg/api/widget/753661716084293710.svg" alt="Jarvis Discord Bot" />
 </a>
 </details>
 <br />
