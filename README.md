@@ -3,8 +3,8 @@
 - 📫 | You can reach me on [discord](http://dsc.bio/crni3939)
 - 🌱 | I’m currently learning [JavaScript](https://discord.gg/Y8Mqbkk)
 - 💻 | All of my projects are available at [my GitHub](https://github.com/crni39)
-- 🤑 | If you want sponsor me here's [Patreon](https://patreon.com/crni39) and [PayPal](https://paypal.me/crni39)
-- 🔭 | I’m currently working on [Jarvis Discord Bot](http://discord.jarvisbot.unaux.com) and on [Astro Music](https://discord.gg/FrmdnN4pqe) (Click names pls)
+- 🤑 | If you want sponsor me here's [PayPal](https://paypal.me/crni39)
+- 🔭 | I’m currently working on [Radar](https://dsc.gg/radar)
 
 ### Connect with me:
 
@@ -40,7 +40,7 @@
 
 
 
-<img align="left" alt="Terminal" width="26px" src="https://cdn.discordapp.com/avatars/787438051479388170/7a98bffb249e5ec51c450bb144231c3e.png?size=256" /> [Radar](httos://dsc.gg/radar)
+<img align="left" alt="Terminal" width="26px" src="https://cdn.discordapp.com/avatars/787438051479388170/7a98bffb249e5ec51c450bb144231c3e.png?size=256" /> [Radar](https://dsc.gg/radar)
 
 
 <br />
