@@ -38,18 +38,11 @@
 
 ### My Official Discord Bots:
 
-<img align="left" alt="Terminal" width="26px" src="https://cdn.discordapp.com/attachments/799260287517327421/808246084539383828/circle-cropped_1.png" /> [Jarvis](https://jarvisdev.xyz)
-<br />
-
-<img align="left" alt="Terminal" width="26px" src="https://cdn.discordapp.com/emojis/769661787053752400.png" /> [Astro Music](https://discord.gg/8w6eYcVauH)
 
 
-<details>
-  <summary>:robot: Top.gg</summary>
-  <a href="https://top.gg/bot/753661716084293710">
-    <img src="https://top.gg/api/widget/753661716084293710.svg" alt="Jarvis Discord Bot" />
-</a>
-</details>
+<img align="left" alt="Terminal" width="26px" src="https://cdn.discordapp.com/avatars/787438051479388170/7a98bffb249e5ec51c450bb144231c3e.png?size=256" /> [Radar](httos://dsc.gg/radar)
+
+
 <br />
 
 <br />
