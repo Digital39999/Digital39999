@@ -39,7 +39,7 @@
 
 
 
-<img align="left" alt="Terminal" width="26px" src="https://cdn.discordapp.com/avatars/787438051479388170/7a98bffb249e5ec51c450bb144231c3e.png?size=256" /> [Radar](https://dsc.gg/radar)
+<img align="left" alt="Terminal" width="26px" src="https://radar-bot.xyz/img/logi.png" /> [Radar](https://radar-bot.xyz)
 
 
 <br />
@@ -62,3 +62,8 @@
     <summary>:zap: GitHub Status (clickable)</summary>
   <img align="center" alt="My GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Crni39&show_icons=true&theme=default&hide_border=true" />
 </details>
+
+<details>
+  <summary>:zap: Contributions (clickable)</summary>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crni39&" alt="crni39" />
+  </details>
