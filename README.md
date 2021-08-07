@@ -7,8 +7,9 @@
 
 ### Connect with me:
 
-<img align="left" alt="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-<img align="left" alt="Crni 39 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+<a href="https://discord.com/users/797012765352001557">
+  <img src="https://lanyard-profile-readme.vercel.app/api/797012765352001557" align="left" />
+</a>
 
 <br />
 
