@@ -31,7 +31,7 @@
 &nbsp;
 
 <h2 align="center">
-    Hello there! My name is <strong>Crni 39</strong>.
+    Hello there! My name is <strong>The Digital</strong>.
 </h2>
 <p align="center">
     I am a software and game developer, with over 2 years of experience in programming. My favorite programming language is <strong>JavaScript</strong>.
