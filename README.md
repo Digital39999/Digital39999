@@ -112,7 +112,7 @@
 
 &nbsp;
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://github.com/Crni39/Discord-Bot-Handlers/">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Crni39&repo=Discord-Bot-Handlers&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=8b949e&hide_border=true/" />
     </a>
@@ -122,6 +122,6 @@
     <a href="https://github.com/Crni39/Discord-Account-Backup">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Crni39&repo=Discord-Account-Backup&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=8b949e&hide_border=true/" />
     </a>
-</p>
+</p> -->
 
 &nbsp;
