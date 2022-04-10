@@ -106,13 +106,13 @@
     </a>
 </p>
 
-<h2 align="center">
+<!-- <h2 align="center">
     And here are my favorite GitHub <strong>repositories</strong>!
 </h2>
 
 &nbsp;
 
-<!-- <p align="center">
+<p align="center">
     <a href="https://github.com/Crni39/Discord-Bot-Handlers/">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Crni39&repo=Discord-Bot-Handlers&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=8b949e&hide_border=true/" />
     </a>
