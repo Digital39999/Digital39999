@@ -34,14 +34,13 @@
     Hello there! My name is <strong>The Digital</strong>.
 </h2>
 <p align="center">
-    I am a software and game developer, with over 2 years of experience in programming. My favorite programming language is <strong>JavaScript</strong>.
+    Hellow, I'm **The Digital** *[he/him]*, student, **Software Engineer**, hobby Discord and **JavaScript Developer**....
 </p>
 <p align="center">
     Some of my favorite projects that I have made recently are:
     <a href="https://discord.gg/CFkxpTbedH/">Discord Resources</a>,
-    <a href="https://radar-bot.xyz/">Radar</a>,
-    <a href="https://verifier.ga">Verifies</a>,
-    <a href="https://crni39.xyz">Website</a>...
+    <a href="https://statusbot.us">Status Bot</a>,
+    <a href="https://crni.xyz">My Website</a>...
 </p>
 
 &nbsp;
