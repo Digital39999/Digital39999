@@ -34,7 +34,7 @@
     Hello there! My name is <strong>The Digital</strong>.
 </h2>
 <p align="center">
-    Hellow, I'm **The Digital** *[he/him]*, student, **Software Engineer**, hobby Discord and **JavaScript Developer**....
+    Hellow, I'm <b>The Digital</b> <i>[he/him]</i>, student, <b>Software Engineer</b>, hobby Discord and <b>JavaScript Developer</b>..
 </p>
 <p align="center">
     Some of my favorite projects that I have made recently are:
