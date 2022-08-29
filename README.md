@@ -100,10 +100,10 @@
 &nbsp;
 
 <p align="center">
-    <a href="https://github.com/Crni39/">
-        <img src="https://github-readme-stats.vercel.app/api?username=Crni39&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=f04848&hide_border=true/" />
-    <a href="https://github.com/Crni39/">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=Crni39&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=f04848&ring=f04848&stroke=FFFFFFFF)](https://git.io/streak-stats" />
+    <a href="https://github.com/Digital39999/">
+        <img src="https://github-readme-stats.vercel.app/api?username=Digital39999&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=f04848&hide_border=true/" />
+    <a href="https://github.com/Digital39999/">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=Digital39999&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=f04848&ring=f04848&stroke=FFFFFFFF)](https://git.io/streak-stats" />
     </a>
     </a>
 </p>
