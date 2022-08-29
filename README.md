@@ -8,7 +8,7 @@
         <img src="./assets/icons/other/link-solid.svg/" width="40px" />
     </a>
     &nbsp;
-    <a href="https://github.com/Crni39/">
+    <a href="https://github.com/Digital39999/">
         <img src="./assets/icons/other/github-solid.svg/" width="40px" />
     </a>
     &nbsp;
@@ -16,7 +16,7 @@
         <img src="./assets/icons/other/discord-solid.svg/" width="40px" />
     </a>
     &nbsp;
-    <a href="https://twitter.com/Crni3939/">
+    <a href="https://twitter.com/Digital39999/">
         <img src="./assets/icons/other/twitter-solid.svg/" width="40px" />
     </a>
     &nbsp;
