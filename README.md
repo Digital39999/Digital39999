@@ -29,7 +29,7 @@
 
 <p align="center">
     Hey there, I'm Digital. I'm a student from Croatia pursuing full-stack development and software engineering. <br />
-    I enjoy leveraging technologies such as TypeScript, Next.js, C++, MongoDB, and many others to create scalable and performant web applications, and I'm looking for projects to develop and things to learn in order to expand my knowledge and skillset further.
+    I enjoy leveraging technologies such as TypeScript, Next.js, C++, MongoDB, and many others to create scalable and performant applications, and I'm looking for projects to develop and things to learn in order to expand my knowledge and skillset further.
 </p>
 
 <h2 align="center">
