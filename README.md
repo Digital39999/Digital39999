@@ -1,9 +1,4 @@
 <p align="center">
-    <a href="https://crni.xyz">
-        <img src="./assets/banners/Banner.gif/" style="border-radius: 40px;" width="500px" />
-    </a>
-</p>
-<p align="center">
     <a href="https://crni.xyz/">
         <img src="./assets/icons/other/link-solid.svg/" width="40px" />
     </a>
