@@ -34,7 +34,7 @@
 
 <p align="center">
     <a href="https://crni.xyz" title="Click Me">
-        <img src="https://skillicons.dev/icons?i=vscode,ts,js,nodejs,react,express,mongodb,prisma,discord,bots,git,github,raspberrypi,cloudflare,html,css&perline=8" width="" />
+        <img src="https://skillicons.dev/icons?i=vscode,ts,js,nodejs,react,express,netlify,nextjs,react,mongodb,cpp,discord,bots,git,github,cloudflare,html,css&perline=9" width="" />
     </a>
 </p>
 
