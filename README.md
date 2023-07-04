@@ -49,7 +49,7 @@
     <a href="https://github.com/Digital39999/">
         <img src="https://digital-github-readme-stats.vercel.app/api?username=Digital39999&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=f04848&hide_border=true/" />
     <a/>
-    <a href="https://wakatime.com/@Digital/">
+    <a href="https://wakatime.com/@Digital">
         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Digital&hide_title=true&bg_color=0d1117&title_color=ef4848&text_color=ffffff&icon_color=f04848&langs_count=6&range=all_timelayout=compact" />
     <a/>
 </p>
