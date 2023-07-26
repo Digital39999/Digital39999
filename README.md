@@ -1,3 +1,13 @@
+<h2 align="center">
+    Hello there! I'm <strong>Digital</strong>.
+</h2>
+&nbsp;
+
+<p align="center">
+    Hey there, I'm Digital. I'm a student from Croatia pursuing full-stack development and software engineering. <br />
+    I enjoy leveraging technologies such as TypeScript, Next.js, C++, MongoDB, and many others to create scalable and performant applications, and I'm looking for projects to develop and things to learn in order to expand my knowledge and skillset further.
+</p>
+
 <p align="center">
     <a href="https://crni.xyz/">
         <img src="./assets/icons/other/link-solid.svg/" width="40px" />
@@ -14,17 +24,6 @@
     <a href="https://twitter.com/Digital39999/">
         <img src="./assets/icons/other/twitter-solid.svg/" width="40px" />
     </a>
-</p>
-
-<hr />
-<h2 align="center">
-    Hello there! I'm <strong>Digital</strong>.
-</h2>
-&nbsp;
-
-<p align="center">
-    Hey there, I'm Digital. I'm a student from Croatia pursuing full-stack development and software engineering. <br />
-    I enjoy leveraging technologies such as TypeScript, Next.js, C++, MongoDB, and many others to create scalable and performant applications, and I'm looking for projects to develop and things to learn in order to expand my knowledge and skillset further.
 </p>
 
 <h2 align="center">
