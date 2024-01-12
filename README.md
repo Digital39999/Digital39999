@@ -6,6 +6,7 @@
 <p align="center">
     Hey there, I'm Digital. I'm a student from Croatia pursuing full-stack development and software engineering. <br />
     I enjoy leveraging technologies such as TypeScript, Next.js, C++, MongoDB, and many others to create scalable and performant applications, and I'm looking for projects to develop and things to learn in order to expand my knowledge and skillset further.
+    Unfortunately most of my active repositories are kept private, so I'm sorry you can't see code of awesome stuff I built, but checkout my website!
 </p>
 
 <p align="center">
