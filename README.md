@@ -8,19 +8,16 @@
 </p>
 
 <p align="center">
-    <a href="https://crni.xyz/">
+    <a href="https://crni.xyz/" style="text-decoration:none; margin: 0 10px;">
         <img src="./assets/icons/other/link-solid.svg/" width="40px" />
     </a>
-    &nbsp;
-    <a href="https://github.com/Digital39999/">
+    <a href="https://github.com/Digital39999/" style="text-decoration:none; margin: 0 10px;">
         <img src="./assets/icons/other/github-solid.svg/" width="40px" />
     </a>
-    &nbsp;
-    <a href="https://discord.com/invite/KxTCW2Wja8">
+    <a href="https://discord.com/invite/KxTCW2Wja8" style="text-decoration:none; margin: 0 10px;">
         <img src="./assets/icons/other/discord-solid.svg/" width="40px" />
     </a>
-    &nbsp;
-    <a href="https://twitter.com/Digital39999/">
+    <a href="https://twitter.com/Digital39999/" style="text-decoration:none; margin: 0 10px;">
         <img src="./assets/icons/other/twitter-solid.svg/" width="40px" />
     </a>
 </p>
@@ -31,8 +28,8 @@
 &nbsp;
 
 <p align="center">
-    <a href="https://crni.xyz" title="Click Me">
-        <img src="https://skillicons.dev/icons?i=vscode,ts,js,nodejs,react,express,netlify,nextjs,react,mongodb,docker,linux,postgres,cpp,discord,bots,git,github,cloudflare,html,css&perline=7" width="" />
+    <a href="https://crni.xyz">
+        <img src="https://skillicons.dev/icons?i=bash,powershell,cpp,go,py,ts,js,html,css,graphql,prisma,neovim,vscode,express,nodejs,remix,react,vite,sentry,redis,mongodb,postgres,rabbitmq,docker,cloudflare,netlify,github,githubactions,postman,npm,pnpm,debian,ubuntu,windows,discord,discordjs,bots,gmail&perline=7" width="" />
     </a>
 </p>
 
@@ -41,13 +38,8 @@
 </h2>
 
 <p align="center">
-    <a href="https://github.com/Digital39999/">
-        <img src="https://digital-github-readme-stats.vercel.app/api?username=Digital39999&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=f04848&hide_border=true" />
-    <a/>
-    <a href="https://github.com/Digital39999/">
-        <img src="https://digital-github-readme-streak-stats.vercel.app?user=Digital39999&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=f04848&ring=f04848&stroke=FFFFFFFF" />
-    </a>
+    <img src="https://digital-github-readme-stats.vercel.app/api?username=Digital39999&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=f04848&hide_border=true" />
     <a href="https://wakatime.com/@Digital">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Digital&hide_title=true&bg_color=0d1117&title_color=ef4848&text_color=ffffff&icon_color=f04848&langs_count=6&range=all_timelayout=compact" />
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Digital&hide_title=true&bg_color=0d1117&title_color=ef4848&text_color=ffffff&icon_color=f04848&langs_count=6&range=all_time&hide_border=true" />
     <a/>
 </p>
