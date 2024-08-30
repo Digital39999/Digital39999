@@ -38,8 +38,8 @@
 </h2>
 
 <p align="center">
-    <img src="https://digital-github-readme-stats.vercel.app/api?username=Digital39999&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=f04848&hide_border=true" />
+    <img src="https://digital-github-readme-stats.vercel.app/api?username=Digital39999&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=f04848&hide_border=false" />
     <a href="https://wakatime.com/@Digital">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Digital&hide_title=true&bg_color=0d1117&title_color=ef4848&text_color=ffffff&icon_color=f04848&langs_count=6&range=all_time&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Digital&hide_title=true&bg_color=0d1117&title_color=ef4848&text_color=ffffff&icon_color=f04848&langs_count=6&range=all_time&hide_border=false" />
     <a/>
 </p>
