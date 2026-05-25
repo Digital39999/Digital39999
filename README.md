@@ -9,15 +9,13 @@ When I'm not coding, I'm usually diving into backend architecture articles, cont
 # 🚀 Technologies & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwindcss,vite,nextjs,remix,vscode,markdown" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwindcss,remix,vscode,markdown" />
   <br />
-  <img src="https://skillicons.dev/icons?i=nodejs,expressjs,golang,graphql,postgresql,mysql,mongodb,redis,rabbitmq,prisma,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=nodejs,expressjs,postgresql,mongodb,redis,rabbitmq,prisma,docker,linux" />
   <br />
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,bitbucket,npm,pnpm,cloudflare,netlify,vercel,ubuntu" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,bitbucket,npm,pnpm,cloudflare,netlify,vercel" />
   <br />
-  <img src="https://skillicons.dev/icons?i=discord,discordbots,discordjs,gmail,mastodon,notion,stackoverflow" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=arduino,latex,postman,sentry,windows" />
+  <img src="https://skillicons.dev/icons?i=discord,discordbots,discordjs,gmail,mastodon,notion,stackoverflow,postman,windows" />
 </p>
 
 # 📊 Stats
